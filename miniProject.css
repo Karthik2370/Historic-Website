@@ -1,0 +1,36 @@
+body{
+    background-color:rgba(159, 54, 46, 0.8);
+    background-image:url("4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 7px solid rgb(43, 59, 112);
+    
+}
+img:hover{
+    filter: brightness(50%);
+}
+.section-1{
+    margin-top:7rem;
+}
+.two{
+    margin-top:20px;
+}
+.audio{
+    margin-top:10px;
+    filter: brightness(30%);
+}
+.heading{
+    text-align: center;
+    background-color: orange;
+    font: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#id{
+    margin-top:3rem;
+    color: aqua;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
